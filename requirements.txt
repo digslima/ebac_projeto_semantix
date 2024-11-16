@@ -20,7 +20,7 @@ ImageHash==4.3.1
 importlib-metadata==7.0.1
 itsdangerous==2.2.0
 Jinja2==3.1.3
-joblib>=1.2.0
+joblib==1.4.2
 jsonschema==4.21.1
 jsonschema-specifications==2023.12.1
 kiwisolver==1.4.5
@@ -42,6 +42,7 @@ patsy==1.0.1
 phik==0.12.4
 pillow==10.2.0
 protobuf==4.25.2
+psutil==5.8.0
 pyarrow==15.0.0
 pydantic==2.9.2
 pydantic_core==2.23.4
@@ -49,7 +50,7 @@ pydeck==0.8.1b0
 Pygments==2.17.2
 pyparsing==3.1.1
 python-dateutil==2.8.2
-pytz==2023.3.post1
+pytz==2021.3
 PyWavelets==1.7.0
 PyYAML==6.0.2
 referencing==0.32.1
@@ -66,6 +67,7 @@ statsmodels==0.14.4
 streamlit==1.30.0
 streamlit-pandas-profiling==0.1.3
 tangled-up-in-unicode==0.2.0
+tea==0.1.7
 tenacity==8.2.3
 threadpoolctl==3.5.0
 toml==0.10.2
@@ -75,10 +77,10 @@ tqdm==4.67.0
 typeguard==4.4.1
 typing_extensions==4.12.2
 tzdata==2023.4
-tzlocal==5.2
+tzlocal==3.0
 urllib3==2.1.0
 validators==0.22.0
-visions==0.7.4
+visions==0.7.6
 watchdog==3.0.0
 Werkzeug==3.1.3
 wordcloud==1.9.4
